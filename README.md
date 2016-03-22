@@ -20,3 +20,5 @@ grade/export/fusion - Google Fusion tables export from grade book - has been rew
 
 ** NEW **
 repository/googledrive - OAuth based repository plugin for Google Drive - provides URLs and Files
+
+Updated
